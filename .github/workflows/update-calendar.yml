@@ -1,0 +1,46 @@
+name: Update Top 25 Football Calendar
+
+on:
+  # Allows you to run it manually from GitHub
+  workflow_dispatch:
+
+  # Run every Sunday at 7:00 PM Central Time
+  schedule:
+    - cron: "0 19 * * 0"
+      timezone: "America/Chicago"
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Top 25 calendar
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+        run: python generate_calendar.py
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name "Top 25 Calendar Bot"
+          git config user.email "actions@github.com"
+
+          git add Top25Football.ics
+
+          if git diff --cached --quiet; then
+            echo "Calendar has not changed."
+          else
+            git commit -m "Update Top 25 football calendar"
+            git push
+          fi
