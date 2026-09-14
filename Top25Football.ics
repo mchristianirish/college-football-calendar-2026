@@ -8,24 +8,35 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:cfbd-401856679@top25football-calendar
-DTSTAMP:20260907T001904Z
-DTSTART:20260912T160000Z
-DTEND:20260912T200000Z
-SUMMARY:🏈 #10 Oklahoma at #16 Michigan
-DESCRIPTION:AP Top 25 matchup\nAP Poll Week 1\n\n#10 Oklahoma\nat\n#16 Michigan\n\nSaturday\, September 12\, 2026 at 11:00 AM Central\n\nVenue: Michigan Stadium
-LOCATION:Michigan Stadium
+UID:cfbd-401856811@top25football-calendar
+DTSTAMP:20260914T001724Z
+DTSTART:20260919T000000Z
+DTEND:20260919T040000Z
+SUMMARY:🏈 #22 Houston at #13 Texas Tech
+DESCRIPTION:AP Top 25 matchup\nAP Poll Week 3\n\n#22 Houston\nat\n#13 Texas Tech\n\nFriday\, September 18\, 2026 at 07:00 PM Central\n\nVenue: Jones AT&T Stadium
+LOCATION:Jones AT&T Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cfbd-401856682@top25football-calendar
-DTSTAMP:20260907T001904Z
-DTSTART:20260912T233000Z
-DTEND:20260913T033000Z
-SUMMARY:🔥 #1 Ohio State at #5 Texas
-DESCRIPTION:AP Top 25 matchup\nAP Poll Week 1\n\n#1 Ohio State\nat\n#5 Texas\n\nSaturday\, September 12\, 2026 at 06:30 PM Central\n\nVenue: DKR-Texas Memorial Stadium
-LOCATION:DKR-Texas Memorial Stadium
+UID:cfbd-401858230@top25football-calendar
+DTSTAMP:20260914T001724Z
+DTSTART:20260919T193000Z
+DTEND:20260919T233000Z
+SUMMARY:🏈 #16 SMU at #23 Louisville
+DESCRIPTION:AP Top 25 matchup\nAP Poll Week 3\n\n#16 SMU\nat\n#23 Louisville\n\nSaturday\, September 19\, 2026 at 02:30 PM Central\n\nVenue: L&N Federal Credit Union Stadium
+LOCATION:L&N Federal Credit Union Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cfbd-401856688@top25football-calendar
+DTSTAMP:20260914T001724Z
+DTSTART:20260919T233000Z
+DTEND:20260920T033000Z
+SUMMARY:🔥 #7 LSU at #8 Ole Miss
+DESCRIPTION:AP Top 25 matchup\nAP Poll Week 3\n\n#7 LSU\nat\n#8 Ole Miss\n\nSaturday\, September 19\, 2026 at 06:30 PM Central\n\nVenue: Vaught-Hemingway Stadium
+LOCATION:Vaught-Hemingway Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
