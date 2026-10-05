@@ -8,35 +8,24 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:cfbd-401856707@top25football-calendar
-DTSTAMP:20260928T040343Z
-DTSTART:20261003T160000Z
-DTEND:20261003T200000Z
-SUMMARY:🏈 #7 Alabama at #16 Mississippi State
-DESCRIPTION:AP Top 25 matchup\nAP Poll Week 5\n\n#7 Alabama\nat\n#16 Mississippi State\n\nSaturday\, October 03\, 2026 at 11:00 AM Central\n\nVenue: Davis Wade Stadium
-LOCATION:Davis Wade Stadium
+UID:cfbd-401858484@top25football-calendar
+DTSTAMP:20261005T042704Z
+DTSTART:20261010T193000Z
+DTEND:20261010T233000Z
+SUMMARY:🏈 #21 UCLA at #13 Oregon
+DESCRIPTION:AP Top 25 matchup\nAP Poll Week 6\n\n#21 UCLA\nat\n#13 Oregon\n\nSaturday\, October 10\, 2026 at 02:30 PM Central\n\nVenue: Autzen Stadium
+LOCATION:Autzen Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cfbd-401856708@top25football-calendar
-DTSTAMP:20260928T040343Z
-DTSTART:20261003T193000Z
-DTEND:20261003T233000Z
-SUMMARY:🏈 #8 Florida at #25 Missouri
-DESCRIPTION:AP Top 25 matchup\nAP Poll Week 5\n\n#8 Florida\nat\n#25 Missouri\n\nSaturday\, October 03\, 2026 at 02:30 PM Central\n\nVenue: Memorial Stadium
-LOCATION:Memorial Stadium
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cfbd-401858473@top25football-calendar
-DTSTAMP:20260928T040343Z
-DTSTART:20261003T193000Z
-DTEND:20261003T233000Z
-SUMMARY:🏈 #5 Ohio State at #14 Iowa
-DESCRIPTION:AP Top 25 matchup\nAP Poll Week 5\n\n#5 Ohio State\nat\n#14 Iowa\n\nSaturday\, October 03\, 2026 at 02:30 PM Central\n\nVenue: Kinnick Stadium
-LOCATION:Kinnick Stadium
+UID:cfbd-401856712@top25football-calendar
+DTSTAMP:20261005T042704Z
+DTSTART:20261010T233000Z
+DTEND:20261011T033000Z
+SUMMARY:🔥 #2 Georgia at #6 Alabama
+DESCRIPTION:AP Top 25 matchup\nAP Poll Week 6\n\n#2 Georgia\nat\n#6 Alabama\n\nSaturday\, October 10\, 2026 at 06:30 PM Central\n\nVenue: Bryant-Denny Stadium
+LOCATION:Bryant-Denny Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
