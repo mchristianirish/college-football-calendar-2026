@@ -8,24 +8,24 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:cfbd-401856837@top25football-calendar
-DTSTAMP:20261019T033408Z
-DTSTART:20261024T040000Z
-DTEND:20261024T080000Z
-SUMMARY:🏈 #14 Houston at #10 Utah
-DESCRIPTION:AP Top 25 matchup\nAP Poll Week 8\n\n#14 Houston\nat\n#10 Utah\n\nFriday\, October 23\, 2026 at 11:00 PM Central\n\nVenue: Rice-Eccles Stadium
-LOCATION:Rice-Eccles Stadium
+UID:cfbd-401856842@top25football-calendar
+DTSTAMP:20261026T033351Z
+DTSTART:20261031T160000Z
+DTEND:20261031T200000Z
+SUMMARY:🏈 #22 Arizona at #13 Texas Tech
+DESCRIPTION:AP Top 25 matchup\nAP Poll Week 9\n\n#22 Arizona\nat\n#13 Texas Tech\n\nSaturday\, October 31\, 2026 at 11:00 AM Central\n\nVenue: Jones AT&T Stadium
+LOCATION:Jones AT&T Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cfbd-401856732@top25football-calendar
-DTSTAMP:20261019T033408Z
-DTSTART:20261024T233000Z
-DTEND:20261025T033000Z
-SUMMARY:🏈 #7 Ole Miss at #19 Texas
-DESCRIPTION:AP Top 25 matchup\nAP Poll Week 8\n\n#7 Ole Miss\nat\n#19 Texas\n\nSaturday\, October 24\, 2026 at 06:30 PM Central\n\nVenue: DKR-Texas Memorial Stadium
-LOCATION:DKR-Texas Memorial Stadium
+UID:cfbd-401856734@top25football-calendar
+DTSTAMP:20261026T033351Z
+DTSTART:20261031T193000Z
+DTEND:20261031T233000Z
+SUMMARY:🏈 #17 Florida at #3 Georgia
+DESCRIPTION:AP Top 25 matchup\nAP Poll Week 9\n\n#17 Florida\nat\n#3 Georgia\n\nSaturday\, October 31\, 2026 at 02:30 PM Central\n\nVenue: Mercedes-Benz Stadium
+LOCATION:Mercedes-Benz Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
